@@ -91,7 +91,7 @@ The dataset contains information about user preferences, including:
 ![Average Rating per Genre](image/Screenshot_2025-05-13_15-01-47.png)
 
 ### Genre Time Distribution:
-![Genre Time Distribution](images/genre_time_distribution.png)
+![Genre Time Distribution](image/Screenshot_2025-05-13_15-02-17.png)
 
 ### PCA-based User Segmentation:
 ![User Segmentation by Clustering](images/user_segmentation.png)
