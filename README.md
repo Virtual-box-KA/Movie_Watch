@@ -88,7 +88,7 @@ The dataset contains information about user preferences, including:
 ![Average Watch Time per Genre](image/Screenshot_2025-05-13_15-00-33.png)
 
 ### Average Rating per Genre:
-![Average Rating per Genre](images/avg_rating_per_genre.png)
+![Average Rating per Genre](image/Screenshot_2025-05-13_15-01-47.png)
 
 ### Genre Time Distribution:
 ![Genre Time Distribution](images/genre_time_distribution.png)
