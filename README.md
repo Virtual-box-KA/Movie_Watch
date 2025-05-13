@@ -81,9 +81,6 @@ The dataset contains information about user preferences, including:
 
 ## Results
 
-### Clustering:
-![Clustering Visualization](images/cluster_visualization.png)
-
 ### Average Watch Time per Genre:
 ![Average Watch Time per Genre](image/Screenshot_2025-05-13_15-00-33.png)
 
@@ -94,7 +91,7 @@ The dataset contains information about user preferences, including:
 ![Genre Time Distribution](image/Screenshot_2025-05-13_15-02-17.png)
 
 ### PCA-based User Segmentation:
-![User Segmentation by Clustering](images/user_segmentation.png)
+![User Segmentation by Clustering](image/Screenshot_2025-05-13_15-02-34.png)
 
 ## Example Code Snippets
 
